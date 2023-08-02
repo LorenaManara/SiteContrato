@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "loja roupa fashion",
+      "budget": "45000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "const": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "pet shop",
+      "budget": "30000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "const": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Designer"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
